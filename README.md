@@ -3,7 +3,7 @@ Overview
 The Expense Tracker is a user-friendly application designed to help users manage and track their daily expenses. Built with Python, it provides an intuitive interface for adding expenses, viewing them, and analyzing spending habits.
 
 Features
-Add Expenses: Easily input expenses with details like amount, category, date, and description.
+** Add Expenses: Easily input expenses with details like amount, category, date, and description.
 View Expenses: Access a comprehensive list of all recorded expenses.
 Data Visualization: Create visual representations of spending patterns using Plotly.
 User Interface: Built with Streamlit for a smooth and interactive experience.
